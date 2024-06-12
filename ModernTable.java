@@ -1,4 +1,3 @@
-package abstractfactory;
 public class ModernTable implements Table {
     @Override
     public void placeItems() {

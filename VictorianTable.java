@@ -1,4 +1,3 @@
-package abstractfactory;
 public class VictorianTable implements Table {
     @Override
     public void placeItems() {

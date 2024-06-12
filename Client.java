@@ -1,4 +1,3 @@
-package abstractfactory;
 public class Client {
     private Chair chair;
     private Table table;

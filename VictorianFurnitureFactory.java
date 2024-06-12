@@ -1,4 +1,3 @@
-package abstractfactory;
 public class VictorianFurnitureFactory implements FurnitureFactory {
     @Override
     public Chair createChair() {
